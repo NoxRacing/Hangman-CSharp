@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\NoxRacing\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\NoxRacing\\.nuget\\packages"
+    ]
+  }
+}

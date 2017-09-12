@@ -1,0 +1,10 @@
+c:\Users\NoxRacing\Github\Hangman-CSharp\bin\Debug\netcoreapp1.1\Hangman-CSharp.deps.json
+c:\Users\NoxRacing\Github\Hangman-CSharp\bin\Debug\netcoreapp1.1\Hangman-CSharp.runtimeconfig.json
+c:\Users\NoxRacing\Github\Hangman-CSharp\bin\Debug\netcoreapp1.1\Hangman-CSharp.runtimeconfig.dev.json
+c:\Users\NoxRacing\Github\Hangman-CSharp\bin\Debug\netcoreapp1.1\Hangman-CSharp.dll
+c:\Users\NoxRacing\Github\Hangman-CSharp\bin\Debug\netcoreapp1.1\Hangman-CSharp.pdb
+c:\Users\NoxRacing\Github\Hangman-CSharp\obj\Debug\netcoreapp1.1\Hangman-CSharp.csproj.CoreCompileInputs.cache
+c:\Users\NoxRacing\Github\Hangman-CSharp\obj\Debug\netcoreapp1.1\Hangman-CSharp.AssemblyInfoInputs.cache
+c:\Users\NoxRacing\Github\Hangman-CSharp\obj\Debug\netcoreapp1.1\Hangman-CSharp.AssemblyInfo.cs
+c:\Users\NoxRacing\Github\Hangman-CSharp\obj\Debug\netcoreapp1.1\Hangman-CSharp.dll
+c:\Users\NoxRacing\Github\Hangman-CSharp\obj\Debug\netcoreapp1.1\Hangman-CSharp.pdb
